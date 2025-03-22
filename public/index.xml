@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fraktal Komplex</title>
+    <link>http://localhost:1313/</link>
+    <description>Recent content on Fraktal Komplex</description>
+    <generator>Hugo</generator>
+    <language>de-DE</language>
+    <lastBuildDate>Sat, 22 Mar 2025 15:56:50 +0100</lastBuildDate>
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>http://localhost:1313/posts/my-first-post/</link>
+      <pubDate>Sat, 22 Mar 2025 15:56:50 +0100</pubDate>
+      <guid>http://localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Bla Bla Bla&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/2025-kw-08/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/2025-kw-08/</guid>
+      <description>&lt;h1&gt;&lt;a href=&#34;https://github.com/vlm-run/vlmrun-hub&#34;&gt;https://github.com/vlm-run/vlmrun-hub&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Python Library um Texte aus Bildern zu extrahieren mittels ChatGPT.&#xA;Die Daten werden gegen eine vordefinierte Struktur geprüft, mittels Pydantic. Könnte einen Nutzen für #RIESVT haben.&lt;/p&gt;&#xA;&lt;h1&gt;&lt;a href=&#34;https://experience.prfalken.dev/english/subway-poker/&#34;&gt;https://experience.prfalken.dev/english/subway-poker/&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Subway Poker: Kann man im Zug zocken, die Menschen im Fünfer gegenüber Bilden eine Pokerhand (Full House, Drillinge etc)&lt;/p&gt;&#xA;&lt;h1&gt;&lt;a href=&#34;https://news.ycombinator.com/item?id=43098705&#34;&gt;https://news.ycombinator.com/item?id=43098705&lt;/a&gt;&lt;/h1&gt;&#xA;&lt;p&gt;Diskussion über Trumps Executive Order. Dieses Land gleitet immer weiter in die Autokratie ab, während alle nur fassungslos daneben stehen. So muss sich England 1933 gefühlt haben. Was passiert hier? Wie damit umgehen? Diese Nation hat Jahrzehnte lang für unsere Sicherheit gesorgt. Dist Trump wirklich Putins Puppe, oder gibt es einen anderen Plan?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title></title>
+      <link>http://localhost:1313/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/readme/</guid>
+      <description>&lt;h1 id=&#34;maxriesgithubio&#34;&gt;maxries.github.io&lt;/h1&gt;&#xA;&lt;p&gt;Blog, zweiter Versuch&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
