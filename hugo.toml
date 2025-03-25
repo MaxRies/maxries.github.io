@@ -2,5 +2,7 @@ baseURL = 'https://maxries.github.io'
 languageCode = 'de-DE'
 title = 'Fraktal Komplex'
 theme = 'ink-free'
+refLinksErrorLevel: WARNING
+refLinksNotFoundURL: https:/maxries.github.io/404
 [params]
 	wpm = 250
