@@ -6,3 +6,7 @@ refLinksErrorLevel = 'WARNING'
 refLinksNotFoundURL = 'https:/maxries.github.io/404'
 [params]
 	wpm = 250
+[markup]
+  defaultMarkdownHandler = 'goldmark'
+[markup.goldmark.renderer]
+  unsafe = true
