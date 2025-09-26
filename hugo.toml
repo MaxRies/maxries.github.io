@@ -1,4 +1,4 @@
-baseURL = 'https://maxries.github.io'
+baseURL = 'https://blog.maxries.de'
 languageCode = 'de-DE'
 title = 'Fraktal Komplex'
 theme = 'ink-free'
