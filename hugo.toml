@@ -3,7 +3,7 @@ languageCode = 'de-DE'
 title = 'Fraktal Komplex'
 theme = 'ink-free'
 refLinksErrorLevel = 'WARNING'
-refLinksNotFoundURL = 'https:/maxries.github.io/404'
+refLinksNotFoundURL = 'https://blog.maxries.de/404'
 [params]
 	wpm = 250
 [markup]
