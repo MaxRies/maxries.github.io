@@ -8,7 +8,7 @@ date: 2026-01-28
 Eigentlich ziemlich spät dran für so ein Listenartikel, aber irgendwie habe ich doch Bock, über das Lesejahr 2025 nachzudenken und meine Eindrücke hier festzuhalten.  
   
 # Spielen - Karl Ove Knausgaard  
-<img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260127115919.png" style="width: 100%">  
+<img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260127115919.png" />  
   
 Das Jahr begann mit dem Ende vom dritten Teil der *Min Kamp* Reihe.  
 Spielen war ein Buch über die Pubertät und die Adoleszenz, über ausgefochtene und unausgefochtene Kämpfe mit den Eltern, die Frage, wo man hinmöchte und hingehört und die ersten zaghaften Schritte in das Erwachsenwerden. Ich fand es stellenweise schwer zu lesen, wahrscheinlich, weil meine Pubertät noch zu nah in meiner Erinnerung ist, und ich mich in so vielen fremdschamerregenden Aktionen des kleinen Karl Oves wiederfinden konnte. Das Buch hat trotzdem viele Markierungen erhalten, wie jedes Buch der Reihe.  
@@ -104,7 +104,7 @@ Die Kapitel, in denen er beschreibt, wie er sich in seine erste Frau Tonje verli
 Knausgard arbeitete als Ferienjob auch in einer psychiatrischen Einrichtung, und diese Abschnitte waren ziemlich eindringlich. Zitate aus diesem Buch, aus dieser Buchreihe abzutippen sind unmöglich, da sie immer in einem größeren Kontext, einer Stimmung stehen, die sich schwer mit isolierten Sätzen transportieren lässt.  
   
 # Saisonarbeit - Heike Geißler  
-<img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260128104531.png">  
+<img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260128104531.png"/>  
   
 Heike Geißlers Buch über die Arbeit bei Amazon sollte eigentlich in den Lesekanon eines jeden MBA Studenten aufgenommen werden. Es könnte dort auch gerne "Schnelles Denken, langsames Denken" oder dieses beknackte "Atomic Habits" verdrängen, hätte ich kein Problem damit.  
 Das Buch ist großartig geschrieben - ich kenne kein anderes Buch, dass in der zweiten Person, also der "Du"-Perspektive ist, und Frau Geißler füllt das wirklich mit Leben. Wahrscheinlich ist es auch ein gutes Buch, wenn man als Mann mehr Empathie für die Rolle der Frau in unserer Gesellschaft erfahren möchte. Oder wenn man als Chef verstehen will, welche Dinge bei der Arbeit enorm stören können.  
@@ -113,7 +113,7 @@ Ein Zitat, das ich mitgenommen habe, an das ich öfters denke, wenn ich sehe, wi
   
 # Die Holländerinnen - Dorothee Elmiger  
   
-<img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260128104550.png">  
+<img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260128104550.png"/>  
 Ein Trip!  
 Schwere Entscheidung, ob nun *Die Wand* oder *Die Holländerinnen* mein Buch des Jahres sind, vielleicht hat auf der letzten Strecke Elminger das Rennen gemacht, allein deshalb, weil das Buch so grandios psychedelisch ist, mit den Urängsten des Menschen spielt und sich nicht zuletzt auch auf eine wahre Begebenheit bezieht. Das Buch war extrem flüssig zu lesen, so flüssig sogar, dass ich es zweimal direkt hintereinander gelesen habe, da ich den Eindruck hatte, dass die Geschehnisse des Endes durchaus auch wichtig zum Verständnis des Anfangs sind, was an dem Erzählmodus liegt: Der ganze Plot ist in eine Rahmenerzählung eingebettet, in der eine Teilnehmerin an der Expedition zum Nachfühlen des Verlorengehens der Holländerinnen über die Geschehnisse im Urwald berichtet.  
   
