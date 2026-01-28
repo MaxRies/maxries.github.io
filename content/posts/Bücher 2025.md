@@ -8,12 +8,14 @@ date: 2026-01-28
 Eigentlich ziemlich spät dran für so ein Listenartikel, aber irgendwie habe ich doch Bock, über das Lesejahr 2025 nachzudenken und meine Eindrücke hier festzuhalten.  
   
 # Spielen - Karl Ove Knausgaard  
+  
 <img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260127115919.png" />  
   
 Das Jahr begann mit dem Ende vom dritten Teil der *Min Kamp* Reihe.  
 Spielen war ein Buch über die Pubertät und die Adoleszenz, über ausgefochtene und unausgefochtene Kämpfe mit den Eltern, die Frage, wo man hinmöchte und hingehört und die ersten zaghaften Schritte in das Erwachsenwerden. Ich fand es stellenweise schwer zu lesen, wahrscheinlich, weil meine Pubertät noch zu nah in meiner Erinnerung ist, und ich mich in so vielen fremdschamerregenden Aktionen des kleinen Karl Oves wiederfinden konnte. Das Buch hat trotzdem viele Markierungen erhalten, wie jedes Buch der Reihe.  
   
 # Der Krieg mit den Molchen - Karel Čapek  
+  
 <img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260128103820.png" />  
   
 Dieses Buch bekam ich von meinem geschätzten Bruder zum Geburtstag.  
@@ -21,6 +23,7 @@ Die von ihm ausgewählte Edition von der Büchergilde ist wunderbar illustriert 
 Das Story an sich ist eine ziemlich unterhaltsame Parabel auf Sklaverei und die Konsequenzen des Fortschritts und des Kapitalismus. Das Ende will ich nicht Spoilern, aber es ist sehr gut.  
   
 # Red Side Story von Jasper Fforde  
+  
 <img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260128103844.png" />  
   
 Jasper Ffordes [Thursday Next](https://www.goodreads.com/series/43680-thursday-next) Reihe war wahrscheinlich eine meiner liebsten Fantasyreihen in den späten Teenagerjahren und hat mir auch das Tor zu vielen anderen Klassikern geöffnet. Irgendwann habe ich zufällig [Shades of Grey](https://www.goodreads.com/book/show/2113260.Shades_of_Grey) von ihm entdeckt, was eine spannende Welt aufgebaut hat, in der Menschen danach sortiert werden, wie viele und welche Farben sie sehen können. Ich hatte die Story als ziemlich sonderbar (im positiven Sinn) in Erinnerung - wenn sie auch damals offensichtlich nicht abgeschlossen wurde, und noch einige Dinge in Chromatica geheimnisvoll blieben.   
@@ -29,15 +32,19 @@ Ungefähr so liest sich das ganze auch - als hätte jemand ein Grundgerüst eine
 Thursday Next bleibt trotzdem eine Empfehlung!  
   
 # Eine Verzweiflung - Yasmina Reza  
+  
 <img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260128103905.png" />  
   
-Das Buch fand durch eine Recherche über das Kammerspiel [Der Gott des Gemetzels](https://de.wikipedia.org/wiki/Der_Gott_des_Gemetzels) zu mir, das Stück stammt ebenfalls aus Rezas Feder. Eine Verzweiflung ist die Abrechnung eines alten Mannes mit seinem Sohn und mit sich selbst. Als einziger Monolog geschrieben, fällt es schwer, sich mit dem Erzähler zu identifizieren oder Symapthien aufzubauen, aber ich bin ja auch eher noch auf der Seite des Sohnes. Die Sprache ist auch in der deutschen Übersetzung sehr präzise und gewitzt, insgesamt macht es schon Spaß, zu lesen, wie er seinem Sohn die Leviten liest und sich dabei selbst entlarvt.   
+Das Buch fand durch eine Recherche über das Kammerspiel [Der Gott des Gemetzels](https://de.wikipedia.org/wiki/Der_Gott_des_Gemetzels) zu mir, das Stück stammt ebenfalls aus Rezas Feder. Eine Verzweiflung ist die Abrechnung eines alten Mannes mit seinem Sohn und mit sich selbst. Als einziger Monolog geschrieben, fällt es schwer, sich mit dem Erzähler zu identifizieren oder Symapthien aufzubauen, aber ich bin ja auch eher noch auf der Seite des Sohnes. Die Sprache ist auch in der deutschen Übersetzung sehr präzise und gewitzt, insgesamt macht es schon Spaß, zu lesen, wie er seinem Sohn die Leviten liest und sich dabei selbst entlarvt.  
+  
 > "Keine Spur mehr von Auflehnung. Keine Spur mehr von Rache. Keine Spur mehr von Leidenschaft. Alles, was einen Mann erfüllt, ihn stärkt und über seine Verhältnisse hinaushebt, hast du in der Versenkung verschwinden lassen."  
   
 Schön fand ich auch:  
+  
 > "Aus welcher Substanz besteht ein Mensch, der sich von seinen Wunden befreit hat?"  
   
 Was mich - natürlich - sofort an einen Prezidentsong denken lässt:  
+  
 > Und was sie Seele nennen ist nur die Summe bleibender Schäden  
 > Du sammelst Kratzer und Dellen und Narven zeit deines Lebens  
   
@@ -60,7 +67,9 @@ Ich möchte nicht zu viel über das Buch verraten, obwohl der wesentliche Verlau
 Ich möchte auch jedem Leser oder Leserin das Nachwort ans Herzen legen.  
   
 # Leben - Karl Ove Knausgard  
+  
 <img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260128104041.png" />  
+  
 Der vierte Teil der Reihe.  
 Karl Ove tritt seine erste Stelle als Lehrer an und findet hier wohl auch den Stoff für sein Erstlingswerk [Aus der Welt](https://www.perlentaucher.de/buch/karl-ove-knausgard/aus-der-welt.html), in dem sich ein Lehrer in seine zu junge Schülerin verliebt.  
 Man erhält tiefere Einblicke in die sich entwickelnde Alkoholsucht seines Vaters und in die Literatur, die ihn geprägt hat. Ich habe mir einiges markiert, was ich noch zu lesen habe.  
@@ -115,6 +124,7 @@ Die Kapitel, in denen er beschreibt, wie er sich in seine erste Frau Tonje verli
 Knausgard arbeitete als Ferienjob auch in einer psychiatrischen Einrichtung, und diese Abschnitte waren ziemlich eindringlich. Zitate aus diesem Buch, aus dieser Buchreihe abzutippen sind unmöglich, da sie immer in einem größeren Kontext, einer Stimmung stehen, die sich schwer mit isolierten Sätzen transportieren lässt.  
   
 # Saisonarbeit - Heike Geißler  
+  
 <img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260128104531.png" />  
   
 Heike Geißlers Buch über die Arbeit bei Amazon sollte eigentlich in den Lesekanon eines jeden MBA Studenten aufgenommen werden. Es könnte dort auch gerne "Schnelles Denken, langsames Denken" oder dieses beknackte "Atomic Habits" verdrängen, hätte ich kein Problem damit.  
@@ -138,6 +148,7 @@ Noch ein Geißler-Buch!
 Ich hatte Sorge, dass es sich zu sehr mit *Saisonarbeit* deckt, das war aber nicht so. Der Begriff der Arbeit wurde kunstvoll aus verschiedenen Perspektiven betrachtet, es gab wieder eine ganze Fülle an Zitaten und Referenzen. Man lernt auch Frau Geißler und ihr Umfeld besser kennen, man begleitet eine Stückentwicklung. Nachhaltig im Kopf blieb mir ihre Beschreibung des "Schichtwechsels am Firmament", von alten Sternzeichen, die zur Navigation verwendet wurden, hin zu neuen Starlink-Satelliten, die Informationen durch die Atmosphäre pumpen.  
   
 # Allegro Pastell - Leif Randt  
+  
 <img src="https://raw.githubusercontent.com/MaxRies/maxries.github.io/refs/heads/main/content/posts/Internet/attachments/Pasted image 20260128104628.png" />  
   
 Mit diesem Buch habe ich mich versöhnt.  
