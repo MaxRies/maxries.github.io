@@ -1,7 +1,7 @@
 ---
 share: true
 title: Linkdump KW 14 bis KW 18
-description: Gesammelte Links aus vier Kalenderwochen. Wie gesagt, Internet bockt nicht mehr so.
+description: Gesammelte Links aus vier Kalenderwochen. Wie gesagt, Internet bockt nicht mehr so. Demoscene und AI, Jonglieren lernen, Mauszeigerspielchen, ist mein Blau eigentlich dein Blau?
 tags:
 date: 2026-05-06
 ---
@@ -18,6 +18,7 @@ Wer an sowas mitarbeitet, sollte sich schämen.
 [\[Link\]](https://www.lesswrong.com/posts/jTGbKKGqs5EdyYoRc/most-people-can-t-juggle-one-ball)  
 Mir ging es mit dem Jonglieren auch so, dass ich dachte, dass das sicherlich nur unglaublich talentierte Menschen mit Jahren der Erfahrung können. Bis ich eines nachmittags in klassischer Studentenmanier im Park rumsaß und mir ein Freund innerhalb von 20 Minuten die Dreiballkaskade beigebracht hat.  
 Seitdem hat sich nicht mehr viel mehr getan, aber es ist trotzdem noch ein Skill, an dem ich hin und wieder feile.  
+[Hier übrigens noch ein trippy Jongliervideo](https://www.youtube.com/watch?v=AfNIkaVQNY4)  
   
 # Why We Accepted Surveillance as Default — Vivian Voss  
 [\[Link\]](https://vivianvoss.net/blog/why-we-accepted-surveillance)  
@@ -25,7 +26,6 @@ Verknüpft mit Browsergate weiter oben. Hier wird auf die Ursprünge der Adtech 
   
 # Meta's New AI Tool Tracks Staff Activity, Sparks Concern - Business Insider  
 [\[Link\]](https://www.businessinsider.com/meta-new-ai-tool-tracks-staff-activity-sparks-concern-2026-4)  
-*Besucht: 22.04.2026*  
 aaaaaaaaaaahahahhahahaahahhaahhahahahahahahaaaa könnte niemand besseren treffen. Echt schon lange nicht mehr so Schadenfreude bei einer Meldung gehabt.  
 "So, jetzt gebt uns mal eure organischen Gedanken, damit wir damit noch mehr KI trainieren können!!!!"  
   
