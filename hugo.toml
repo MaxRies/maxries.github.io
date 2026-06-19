@@ -6,7 +6,19 @@ refLinksErrorLevel = 'WARNING'
 refLinksNotFoundURL = 'https://blog.maxries.de/404'
 [params]
 	wpm = 250
+  mode = "auto"
+  footers = [
+		"Volle Kraft in keine Richtung!",
+    "Ceterum censeo Instagram esse delendam",
+    "Das ist nicht der Algorithmus. Das ist nah dran.",
+		"Wie soll man sich denn auch sonst gegenüber den Dingen verhalten?",
+    "Autocorrect als Gradmesser der Originalität deines Gedankenganges. Jetzt mit dem geballten Korpus von 500 Jahren Buchdruck und 9 Jahren Twitter."
+	]
+  
 [markup]
   defaultMarkdownHandler = 'goldmark'
 [markup.goldmark.renderer]
   unsafe = true
+
+[permalinks]
+  posts = "/:year/:month/:title"

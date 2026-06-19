@@ -1,0 +1,38 @@
+{{- printf "<?xml version=\"1.0\" encoding=\"utf-8\" standalone=\"yes\"?>" | safeHTML }}
+{{- $pages := .RegularPages -}}
+{{- if .IsHome -}}
+{{- $pages = where site.RegularPages "Section" "posts" -}}
+{{- end -}}
+{{- $limit := site.Config.Services.RSS.Limit -}}
+{{- if and (gt $limit 0) (gt (len $pages) $limit) -}}
+{{- $pages = first $limit $pages -}}
+{{- end -}}
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>{{ if eq .Title site.Title }}{{ site.Title }}{{ else }}{{ with .Title }}{{ . }} on {{ end }}{{ site.Title }}{{ end }}</title>
+    <link>{{ .Permalink }}</link>
+    <description>{{ if and .IsHome (not site.Params.description) }}Recent content on {{ site.Title }}{{ else }}{{ with or site.Params.description .Description site.Params.Subtitle "" }}{{ . }}{{ end }}{{ end }}</description>
+    <generator>Hugo</generator>
+    <language>{{ site.Language.LanguageCode }}</language>{{ with site.Params.author.email }}
+    <managingEditor>{{ . }}{{ with site.Params.author.name }} ({{ . }}){{ end }}</managingEditor>{{ end }}{{ with site.Params.author.email }}
+    <webMaster>{{ . }}{{ with site.Params.author.name }} ({{ . }}){{ end }}</webMaster>{{ end }}{{ with site.Copyright }}
+    <copyright>{{ . }}</copyright>{{ end }}{{ if not .Date.IsZero }}
+    <lastBuildDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</lastBuildDate>{{ end }}
+    {{- with .OutputFormats.Get "RSS" -}}
+    {{ printf "<atom:link href=%q rel=\"self\" type=%q />" .Permalink .MediaType | safeHTML }}
+    {{- end }}
+    {{- range $pages }}
+    <item>
+      <title>{{ .Title }}</title>
+      <link>{{ .Permalink }}</link>
+      <pubDate>{{ .Date.Format "Mon, 02 Jan 2006 15:04:05 -0700" | safeHTML }}</pubDate>
+      {{- with .Site.Params.author.email }}
+      <author>{{ . }}{{ with $.Site.Params.author.name }} ({{ . }}){{ end }}</author>
+      {{- end }}
+      <guid>{{ .Permalink }}</guid>
+      <description>{{ if .Description }}{{ .Description | transform.XMLEscape | safeHTML }}{{ else if gt (len .RawContent) 120 }}{{ printf "%s..." (slicestr .RawContent 0 120) | transform.XMLEscape | safeHTML }}{{ else }}{{ .RawContent | transform.XMLEscape | safeHTML }}{{ end }}</description>
+      <content:encoded>{{ (printf "<![CDATA[%s]]>" .Content) | safeHTML }}</content:encoded>
+    </item>
+    {{- end }}
+  </channel>
+</rss>
